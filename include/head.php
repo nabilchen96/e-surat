@@ -36,7 +36,7 @@
         }
         .bg::before {
             content: '';
-            background-image: url('./asset/img/background.jpg');
+            /* background-image: url('./asset/img/background.jpg'); */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: scroll;
