@@ -165,7 +165,9 @@
                     <li><a href="?page=gsm">Surat Masuk</a></li>
                     <li><a href="?page=gsk">Surat Keluar</a></li>
                 </ul>
+            <li><a href="?page=template">Template</a></li>
             <li><a href="?page=ref">Klasifikasi</a></li>
+
             <li><a href="?page=internal">Kode Surat Internal</a></li>
             <?php
                 }

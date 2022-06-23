@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+// error_reporting(0);
 
     ob_start();
     //cek session
@@ -59,6 +59,9 @@ error_reporting(0);
                     break;
                 case 'ref':
                     include "referensi.php";
+                    break;
+                case 'template':
+                    include "template.php";
                     break;
                 case 'internal':
                     include "kode_internal.php";
