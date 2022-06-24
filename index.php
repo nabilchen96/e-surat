@@ -16,7 +16,7 @@
 <!-- Head START -->
 <head>
 
-    <title>SIDLAP</title>
+    <title>SILDDAP</title>
 
     <!-- Meta START -->
     <meta charset="utf-8" />
@@ -184,7 +184,7 @@
                     <!-- Logo and title START -->
                     <div class="col s12">
                         <div class="card-content">
-                            <h5 class="center" id="title">Sistem Informasi Digitalisasi Layanan Administrasi Perkantoran</h5>
+                            <h5 class="center" id="title">Sistem Informasi Layanan Dokumen Digital Administrasi Perkantoran</h5>
                             <?php
                                 if(!empty($data['logo'])){
                                     echo '<img id="logo" src="./upload/'.$data['logo'].'"/>';
